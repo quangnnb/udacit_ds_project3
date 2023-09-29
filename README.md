@@ -1,9 +1,5 @@
 # Recommendations with IBM
 
-Project Motivation
-File Descriptions
-Licensing, Authors, Acknowledgements, etc.
-
 ## Project Motivation
 In this project, my focus was on examining user interactions with articles within the IBM Watson Studio platform and providing personalized article recommendations. The project encompassed the following key tasks:
  - Exploratory Data Analysis
