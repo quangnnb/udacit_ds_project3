@@ -12,8 +12,7 @@ data
 - articles_community.csv # articles
 - user-item-interactions.csv # user item interactions data
 
-Recommendations_with_IBM.ipynb # Jupyter notebook
-Recommendations_with_IBM.ipynb # html of jupyter notebook
-debug.log project_tests.py # project tests python script top_10.p top_20.p top_5.p
-
-README.md
+- Recommendations_with_IBM.ipynb # Jupyter notebook
+- Recommendations_with_IBM.ipynb # html of jupyter notebook
+- debug.log project_tests.py # project tests python script top_10.p top_20.p top_5.p
+- README.md
