@@ -8,10 +8,8 @@ In this project, my focus was on examining user interactions with articles withi
  - Matrix factorisation
 
 ## File Descriptions
-data
-
-- articles_community.csv # articles
-- user-item-interactions.csv # user item interactions data
+- data/articles_community.csv # articles
+- data/user-item-interactions.csv # user item interactions data
 
 - Recommendations_with_IBM.ipynb # Jupyter notebook
 - Recommendations_with_IBM.ipynb # html of jupyter notebook
