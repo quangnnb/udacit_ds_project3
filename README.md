@@ -6,7 +6,8 @@ In this project, my focus was on examining user interactions with articles withi
  - Rank Based Recommendations
  - User-User Based Collaborative Filtering
  - Matrix factorisation
-File Descriptions
+
+## File Descriptions
 data
 
 - articles_community.csv # articles
